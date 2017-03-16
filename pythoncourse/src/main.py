@@ -1,5 +1,6 @@
 '''
 Created on 9 de mar de 2017
+alterado 16/03
 
 @author: Gilzamir Gomes
 '''
